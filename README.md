@@ -1,4 +1,4 @@
-# OLLAMA Model Benchmark – Prof-0
+# [OLLAMA](https://ollama.com/) Model Benchmark – [Prof-0](https://iprof-0.github.io/Zero)
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue?style=for-the-badge&logo=python)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
@@ -67,9 +67,10 @@ All measurements are performed locally using OLLAMA’s `/generate` API.
 ## ⚙️ Requirements
 
 ### System
-- OLLAMA installed and running
+- [OLLAMA](https://ollama.com/download) installed and running
+- If you’re new, search [“How to install Ollama”](https://www.google.com/search?q=how%20to%20install%20ollama) for a guided walkthrough
 - Local models already pulled
-- Python **3.9+**
+- [Python](https://www.python.org/downloads/) **3.9+**
 
 ### Python Dependency
 ```bash
@@ -90,7 +91,7 @@ http://localhost:11434
 
 ### 2. Configure Models
 
-Edit `main.py` and add your installed models:
+Edit [main.py](main.py) and add your installed models:
 
 ```python
 TARGET_MODELS = [
@@ -148,7 +149,7 @@ Benchmark completed.
 
 ---
 
-## 🧑‍💻 Author
+## 🧑‍💻 [Author](https://iprof-0.github.io/Zero)
 
 **Zero (Prof-0)**  
 Ethical Cybersecurity Researcher  
@@ -157,7 +158,7 @@ Ethical Cybersecurity Researcher
 
 ---
 
-## 📜 License
+## 📜 [License](LICENSE)
 
 MIT License  
-Copyright (c) 2026 Zero
+Copyright (c) 2026 [Zero](https://iprof-0.github.io/Zero/#contact)
